@@ -1,1 +1,1 @@
-https://GITHUB-psychodel4ik.github.io/rsschool-cv/cv
+https://psychodel4ik.github.io/rsschool-cv/cv
