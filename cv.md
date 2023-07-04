@@ -22,3 +22,9 @@ console.log('Hello world!')
 a don't have any work experience in IT.
 
 ---
+##education
+i have a general education after school and I'm going to go to college.
+
+---
+##English language level
+I don't have an exact answer to this question
